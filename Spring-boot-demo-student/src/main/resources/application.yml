@@ -2,7 +2,7 @@ server:
   port: 5555
 spring:
   datasource:
-    password: Temp1234
+    password: root
     url: jdbc:mysql://localhost:3306/javabatch
     username: root
   jpa:
